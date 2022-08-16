@@ -59,5 +59,4 @@ function typing() {
         index = 0;
     }
 }
-
 setInterval(typing, 500);
